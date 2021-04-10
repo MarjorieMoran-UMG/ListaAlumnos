@@ -1,0 +1,10 @@
+C:\Users\Marjorie\Desktop\Ejercicio27.04.2021\bin\Debug\Ejercicio27.04.2021.exe.config
+C:\Users\Marjorie\Desktop\Ejercicio27.04.2021\bin\Debug\Ejercicio27.04.2021.exe
+C:\Users\Marjorie\Desktop\Ejercicio27.04.2021\bin\Debug\Ejercicio27.04.2021.pdb
+C:\Users\Marjorie\Desktop\Ejercicio27.04.2021\obj\Debug\Ejercicio27.04.2021.csprojAssemblyReference.cache
+C:\Users\Marjorie\Desktop\Ejercicio27.04.2021\obj\Debug\Ejercicio27._04._2021.Form1.resources
+C:\Users\Marjorie\Desktop\Ejercicio27.04.2021\obj\Debug\Ejercicio27._04._2021.Properties.Resources.resources
+C:\Users\Marjorie\Desktop\Ejercicio27.04.2021\obj\Debug\Ejercicio27.04.2021.csproj.GenerateResource.cache
+C:\Users\Marjorie\Desktop\Ejercicio27.04.2021\obj\Debug\Ejercicio27.04.2021.csproj.CoreCompileInputs.cache
+C:\Users\Marjorie\Desktop\Ejercicio27.04.2021\obj\Debug\Ejercicio27.04.2021.exe
+C:\Users\Marjorie\Desktop\Ejercicio27.04.2021\obj\Debug\Ejercicio27.04.2021.pdb
